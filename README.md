@@ -1,16 +1,20 @@
-# gallery_app
+# Gallery App
 
-A new Flutter project.
+A simple Flutter app that allows users to capture images using the device's camera and view them in a gallery.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Open the device's camera and capture images.
+- View captured images in a gallery.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img align="center" src="https://github.com/YashLakhwani99/gallery-app/assets/110691495/6e140e0f-26b9-4302-8619-8cd89a22db79" alt="misnomerrr" height="575" width="300" />
+<img align="center" src="https://github.com/YashLakhwani99/gallery-app/assets/110691495/8dbceb0d-3c54-4cff-adfe-e588e17e715d" alt="misnomerrr" height="575" width="300" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Dependencies
+
+This project uses the following dependencies:
+
+- [camera](https://pub.dev/packages/camera): A Flutter plugin for getting information about and controlling the camera on Android and iOS.
+- [path_provider](https://pub.dev/packages/path_provider): A Flutter plugin for finding commonly used locations on the filesystem.
